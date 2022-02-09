@@ -1,0 +1,53 @@
+{
+  "nvim-lua/popup.nvim": {},
+  "nvim-lua/plenary.nvim": {},
+  "windwp/nvim-autopairs": {},
+  "numToStr/Comment.nvim": {},
+  "kyazdani42/nvim-web-devicons": {},
+  "kyazdani42/nvim-tree.lua": {},
+  "akinsho/bufferline.nvim": {},
+  "moll/vim-bbye": {},
+  "nvim-lualine/lualine.nvim": {},
+  "akinsho/toggleterm.nvim": {},
+  "ahmedkhalf/project.nvim": {},
+  "lukas-reineke/indent-blankline.nvim": {},
+  "goolord/alpha-nvim": {},
+  "antoinemadec/FixCursorHold.nvim": {},
+  "folke/which-key.nvim": {},
+
+  "hrsh7th/nvim-cmp": {},
+  "hrsh7th/cmp-buffer": {},
+  "hrsh7th/cmp-path": {},
+  "hrsh7th/cmp-cmdline": {},
+  "saadparwaiz1/cmp_luasnip": {},
+  "hrsh7th/cmp-nvim-lsp": {},
+
+  "L3MON4D3/LuaSnip": {},
+  "rafamadriz/friendly-snippets": {},
+
+  "neovim/nvim-lspconfig": {},
+  "williamboman/nvim-lsp-installer": {},
+  "tamago324/nlsp-settings.nvim": {},
+  "jose-elias-alvarez/null-ls.nvim": {},
+  "ThePrimeagen/refactoring.nvim": {
+    "requires": [
+      "nvim-lua/plenary.nvim",
+      "nvim-treesitter/nvim-treesitter"
+    ]
+  },
+  "mfussenegger/nvim-dap": {},
+  "simrat39/rust-tools.nvim": {
+    "requires": [
+        "nvim-lua/plenary.nvim",
+        "mfussenegger/nvim-dap"
+    ]
+  },
+
+  "nvim-telescope/telescope.nvim": {},
+  "nvim-treesitter/playground": {},
+  "nvim-treesitter/nvim-treesitter": {
+    "run": ":TSUpdate"
+  },
+  "JoosepAlviste/nvim-ts-context-commentstring": {},
+  "lewis6991/gitsigns.nvim": {}
+}
